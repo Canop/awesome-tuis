@@ -141,6 +141,7 @@ List of projects that provide terminal user interfaces
 
 ## <a name="productivity"></a>Productivity
 
+- [broot](https://github.com/Canop/broot) A file manager and launcher with a tree based view
 - [goful](https://github.com/anmitsu/goful) a powerful TUI file manager written in Go
 - [khal](https://github.com/pimutils/khal) A standards based CLI calendar program, able to synchronize with CalDAV servers
 - [patat](https://github.com/jaspervdj/patat) Terminal-based presentations using Pandoc
